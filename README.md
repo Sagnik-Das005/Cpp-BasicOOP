@@ -1,2 +1,2 @@
 # Cpp-BasicOOP
-Welcome to my C++ Object-Oriented Programming repository! As a Computer Science student, I use this space to practice and showcase my progress in OOP concepts. Here, I share small programs, exercises, and projects to deepen my C++ knowledge and improve my coding skills.  
+This repository serves as a dedicated space for me to practice, learn, and showcase my growing skills in C++ programming, especially focusing on object-oriented programming principles. Throughout my studies, I will be uploading small programs, exercises, and projects designed to deepen my understanding and strengthen my proficiency in C++.
